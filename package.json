@@ -1,5 +1,5 @@
 {
-  "name": "@mapbox/dyno",
+  "name": "@shuelo/dyno",
   "version": "1.4.1",
   "description": "Simple DynamoDB client",
   "main": "index.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/dyno.git"
+    "url": "git://github.com/shuelo/dyno.git"
   },
   "bugs": {
-    "url": "https://github.com/mapbox/dyno/issues"
+    "url": "https://github.com/shuelo/dyno/issues"
   },
   "keywords": [
     "dynamodb"
